@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ga
+Version: 1.0.0
+Summary: Genetic Algorithm module for Python
+Author: Nofil Khan
+Author-email: norfils4@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
